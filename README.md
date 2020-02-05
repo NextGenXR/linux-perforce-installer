@@ -1,3 +1,8 @@
+https://docs.unrealengine.com/en-US/Engine/Basics/SourceControl/Perforce/index.html
+
+https://www.perforce.com/video-tutorials/vcs/start-collaborating-unreal-engine-and-helix-core
+
+
 # About
 
 This script will install Perforce Server 2015.1 on a 64-bit linux host. It has only been tested on Ubuntu so far. If you are looking for an Ubuntu host, I recommend the $20/month tier at [DigitalOcean](https://www.digitalocean.com/?refcode=070b959bc226).
